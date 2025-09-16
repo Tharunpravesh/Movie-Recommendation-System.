@@ -27,4 +27,4 @@ ________________________________________________________________________________
 
 ## SCREEN SHOTS : 
 
-<img width="974" height="772" alt="unnamed" src="https://github.com/user-attachments/assets/24725878-4cb9-47c8-8a4d-a8b6f9bea16a" />
+1.SQL TABLE CREATION : <img width="974" height="772" alt="unnamed" src="https://github.com/user-attachments/assets/24725878-4cb9-47c8-8a4d-a8b6f9bea16a" />
